@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww1.sinaimg.cn/large/6ff51fefjw1eq0rvt9qykj20m50xcdib.jpg</string>
+		<key>placeHoderImg</key>
+		<string>e3dbcf4838fff01fa4c08ba6be6c7d6a</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww3.sinaimg.cn/large/6ff51fefjw1eq0rz28879j20go0b3wg7.jpg</string>
+		<key>placeHoderImg</key>
+		<string>05fa8ac2051e03ee3d18d3a374f2454a</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww4.sinaimg.cn/large/6ff51fefjw1eq0rzbsj8yj20fe0abmxe.jpg</string>
+		<key>placeHoderImg</key>
+		<string>a171a88b858f709446bcffaa30e26537</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww4.sinaimg.cn/large/6ff51fefjw1eq0rzgjcq7j20m80xgq6n.jpg</string>
+		<key>placeHoderImg</key>
+		<string>e703910682f8c76cb35dfa4b44884e0a</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww2.sinaimg.cn/large/6ff51fefjw1eq0rzknn7qj20c80fx3zr.jpg</string>
+		<key>placeHoderImg</key>
+		<string>0361b2a2033793921ae7743ddfeeb2ce</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww3.sinaimg.cn/large/6ff51fefjw1eq0s4jrzrqj20m60g6abg.jpg</string>
+		<key>placeHoderImg</key>
+		<string>0a1034dce7e8a62984e8a697a1188a9d</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww1.sinaimg.cn/large/6ff51fefjw1eq0s4pmoe7j20du0ih75b.jpg</string>
+		<key>placeHoderImg</key>
+		<string>2f8029306e5cc41f5dd74e2d9a5dbaca</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww3.sinaimg.cn/large/6ff51fefjw1eq0s5i1l36j20dw0ifjta.jpg</string>
+		<key>placeHoderImg</key>
+		<string>eee98a94408c697b621dbe4b438bc482</string>
+	</dict>
+	<dict>
+		<key>bigImageURL</key>
+		<string>http://ww3.sinaimg.cn/large/6ff51fefjw1eq0s6oiptcj20fa0bh74r.jpg</string>
+		<key>placeHoderImg</key>
+		<string>95018ad501b534b866232267dc417482</string>
+	</dict>
+</array>
+</plist>
